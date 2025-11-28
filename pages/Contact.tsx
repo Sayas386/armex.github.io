@@ -14,7 +14,7 @@ const Contact: React.FC = () => {
         <div className="mb-8 flex flex-col gap-2">
           <a 
             className="flex items-center justify-between gap-4 rounded-xl bg-white dark:bg-surface-dark p-4 min-h-14 border border-gray-200 dark:border-transparent shadow-sm hover:bg-gray-50 dark:hover:bg-surface-dark/80 transition-colors" 
-            href="tel:+525512345678"
+            href="tel:+525574500593"
           >
             <div className="flex items-center gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/20 text-black dark:text-white">
@@ -31,7 +31,7 @@ const Contact: React.FC = () => {
           
           <a 
             className="flex items-center justify-between gap-4 rounded-xl bg-white dark:bg-surface-dark p-4 min-h-14 border border-gray-200 dark:border-transparent shadow-sm hover:bg-gray-50 dark:hover:bg-surface-dark/80 transition-colors" 
-            href="mailto:soporte@armex.com"
+            href="mailto:davidarridescartes.sabatino@gmail.com"
           >
             <div className="flex items-center gap-4">
               <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-primary/20 text-black dark:text-white">
